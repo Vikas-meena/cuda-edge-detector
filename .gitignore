@@ -1,0 +1,5 @@
+obj/
+bin/
+# Downloaded by scripts/fetch_data.sh (about 75 MB).
+data/input/
+__pycache__/
